@@ -14,7 +14,7 @@ const Navbar = ({ user, openLogin, logout, setPage, setSearchTerm }) => {
         <div className="flex justify-between items-center w-full sm:w-auto">
           <div className="flex items-center gap-2">
             <img
-              src="https://cdna.artstation.com/p/assets/images/images/082/868/490/large/lorenzo-farina-logo-felpa-rosa-sfondo-bianco.jpg?1734115671"
+              src="https://i.pinimg.com/originals/46/9c/6f/469c6f7badd2745729fc122782c19ff9.jpg"
               alt="AnimeHunt Logo"
               className="w-10 h-10 rounded-full"
             />
